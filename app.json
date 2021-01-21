@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "simple-ecommerce-app",
+    "slug": "simple-ecommerce-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "config": {
+        "googleMapsApiKey": "AIzaSyDAIYIW1CA-bvpjBc5qkzMoXz6mZQUNE9E"
+      },
+      "bundleIdentifier": "com.tradeling.ecommerce"
+    },
+    "android": {
+      "package": "com.tradeling.ecommerce",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyDAIYIW1CA-bvpjBc5qkzMoXz6mZQUNE9E"
+        }
+      },
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "useNextNotificationsApi": true
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    },
+    "description": "",
+    "githubUrl": "https://github.com/IsmaelMiber/simple-ecommerce-app"
+  }
+}
