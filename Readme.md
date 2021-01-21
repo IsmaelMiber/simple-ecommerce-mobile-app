@@ -19,7 +19,7 @@ This project task required to built with major tools listed below:
 ### Installation
 
 - Clone the repo
-  `git clone #REPO`
+  `git clone https://github.com/IsmaelMiber/simple-ecommerce-mobile-app.git`
 
 - Open project folder
 - Open cmd for it.
@@ -59,3 +59,9 @@ This project task required to built with major tools listed below:
    There is a network listner to inform user that he offline or back online to network.
 8. Responsive
    This app is full responsive mobile and tablet screens with supporting RTL without restarting app, I write algoritm to make the styles and RTL very dynamic.
+
+### Notes:
+
+1. Note that Iam using Typescript for first time, I know that my code is not the best for writing types of variables, so I wrote this note for you.
+2. This repo is a new one the past one that have 99 commits have some issues so I created a new one, I know that you maybe look on how writing commits but I will show some examples of my commits in these screenshots, I know that is not a professional way but I should say what happened to be noted.
+   ![commits example from previous repo](https://i.ibb.co/CJrbLSP/commits-example-from-previous-repo.png)
